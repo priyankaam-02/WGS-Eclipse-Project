@@ -1,0 +1,9 @@
+A.txt 2022-01-28, Record No. 1 is invalid, aaaa,bangaloresahdd,3456
+B.txt 2022-01-28, Record No. 2 is invalid, bbbbb,engli,
+A.txt 2022-01-28, Record No. 2 is invalid, 
+B.txt 2022-01-28, Record No. 3 is invalid, ccccc,s,10
+B.txt 2022-01-28, Record No. 4 is invalid, dddddd,maths,1000
+A.txt 2022-01-28, Record No. 4 is invalid, asd,sdsa,
+B.txt 2022-01-28, Record No. 6 is invalid, 
+A.txt 2022-01-28, Record No. 6 is invalid, Priyanka,bangalore,6098789
+A.txt 2022-01-28, Record No. 9 is invalid, mimi,hyd,23

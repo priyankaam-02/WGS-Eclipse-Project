@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+	<listOfFiles>
+		<file>
+			<fileName>A.txt</fileName>
+			<timeToArrive>22:30</timeToArrive>
+			<outFileName>aout.txt</outFileName>
+			<format>
+				<field>
+					<name>customername</name>
+					<maxLength>8</maxLength>
+					<minLength>1</minLength>
+					<order>1</order>
+					<optional>false</optional>
+				</field>
+				<field>
+					<name>address</name>
+					<maxLength>8</maxLength>
+					<minLength>1</minLength>
+					<order>2</order>
+					<optional>false</optional>
+
+				</field>
+				<field>
+					<name>ordervalue</name>
+					<maxLength>8</maxLength>
+					<minLength>4</minLength>
+					<order>3</order>
+					<optional>false</optional>
+
+				</field>
+
+			</format>
+		</file>
+		<file>
+			<fileName>B.txt</fileName>
+			<timeToArrive>22:30</timeToArrive>
+			<outFileName>aout.txt</outFileName>
+			<format>
+				<field>
+					<name>studentname</name>
+					<maxLength>8</maxLength>
+					<minLength>5</minLength>
+					<order>1</order>
+					<optional>false</optional>
+				</field>
+				<field>
+					<name>subject</name>
+					<maxLength>8</maxLength>
+					<minLength>2</minLength>
+					<order>2</order>
+					<optional>false</optional>
+				</field>
+				<field>
+					<name>marks</name>
+					<maxLength>3</maxLength>
+					<minLength>1</minLength>
+					<order>3</order>
+					<optional>true</optional>
+				</field>
+
+			</format>
+		</file>
+		<file>
+			<fileName>C.txt</fileName>
+			<timeToArrive>11:30</timeToArrive>
+			<outFileName>cout.txt</outFileName>
+			<order>1</order>
+			<optional>false</optional>
+			<format>
+				<field>
+					<name>customername</name>
+					<maxLength>8</maxLength>
+					<minLength>5</minLength>
+					<order>2</order>
+					<optional>false</optional>
+				</field>
+				<field>
+					<name>address</name>
+					<maxLength>8</maxLength>
+					<minLength>5</minLength>
+
+				</field>
+				<field>
+					<name>ordervalue</name>
+					<maxLength>8</maxLength>
+					<minLength>4</minLength>
+					<order>3</order>
+					<optional>false</optional>
+				</field>
+
+			</format>
+		</file>
+	</listOfFiles>
+</files>
